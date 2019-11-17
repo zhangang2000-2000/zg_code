@@ -25,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AnnotationTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AnnotationTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/annotatiion/AnnotationTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-219">
@@ -37,16 +37,6 @@
                 <element signature="e#562#563#0" expanded="true" />
                 <element signature="e#631#632#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestGit.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TestGit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -630,12 +620,12 @@
       <updated>1572785962745</updated>
       <workItem from="1572785971258" duration="266000" />
       <workItem from="1572787033562" duration="88000" />
-      <workItem from="1573961780672" duration="5872000" />
+      <workItem from="1573961780672" duration="6471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6226000" />
+    <option name="totallyTimeSpent" value="6825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="61" width="1400" height="782" extended-state="0" />
@@ -725,6 +715,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestGit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/annotatiion/AnnotationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-219">
@@ -736,14 +734,6 @@
             <element signature="e#562#563#0" expanded="true" />
             <element signature="e#631#632#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestGit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>

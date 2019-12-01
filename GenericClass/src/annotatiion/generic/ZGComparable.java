@@ -1,3 +1,5 @@
+package annotatiion.generic;
+
 /**
  * Created by zhangang on 11/30/19.
  */

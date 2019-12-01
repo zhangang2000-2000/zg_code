@@ -1,4 +1,4 @@
-package annotatiion.generic;
+package generic;
 
 /**
  * Created by zhangang on 11/30/19.
